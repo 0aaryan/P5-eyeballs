@@ -3,8 +3,8 @@
 var outterImg,innerImg;
 
 function preload() {
-  outterImg=loadImage('/imgs/6.png');
-  innerImg=loadImage('/imgs/inner2.png');
+  outterImg=loadImage('imgs/6.png');
+  innerImg=loadImage('imgs/inner2.png');
 }
 
 
