@@ -1,7 +1,6 @@
 
 function eyeBall(x,y,r1,r2,colour){
     this.outerBall=Bodies.circle(x,y,r1);
-    console.log(this.outerBall)
     Composite.add(engine.world,this.outerBall);
     this.centerX=0;
     this.centerY=0;
