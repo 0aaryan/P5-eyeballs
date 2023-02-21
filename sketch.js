@@ -29,6 +29,7 @@ var ground,wall1,wall2;
 function setup() {
   //canvas
   canvas=createCanvas(w, h);
+  pixelDensity(1);
 
 
 
